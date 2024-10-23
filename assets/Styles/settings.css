@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+html{
+  font-size: 62.5%;
+}
+  
+
+:root{
+
+}
+
+a{
+ text-decoration: none;   
+}
+body {
+  overflow-x: hidden;
+  z-index: 0;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  width: 100%;
+  background:var(--seccond-color);
+}
+
+button{
+  border: solid 1px var(--main-color);
+  border-radius: 15px;
+  margin: 0;
+}
+
+ul{
+  list-style: none;
+}
+
+h2{
+  font-size: 4rem;
+}
+
+.titulo{
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  }
